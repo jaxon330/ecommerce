@@ -4,7 +4,7 @@
 
 
 ## Introduction
-A fully functional ecommerce application with complete stripe payment integration and with sanity platform for structured data.
+A fully functional ecommerce application with complete stripe payment integration and with Sanity platform for structured data.
 
 ## TECHNOLOGY USED
 * JavaScript
